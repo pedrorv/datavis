@@ -1,0 +1,236 @@
+[
+ {
+   "country": "Brazil",
+   "year": 2018,
+   "gini": 53.3,
+   "president": "Michel Temer"
+ },
+ {
+   "country": "Brazil",
+   "year": 2017,
+   "gini": 53.3,
+   "president": "Michel Temer"
+ },
+ {
+   "country": "Brazil",
+   "year": 2016,
+   "gini": 53.7,
+   "president": "Dilma Rousseff"
+ },
+ {
+   "country": "Brazil",
+   "year": 2015,
+   "gini": 51.3,
+   "president": "Dilma Rousseff"
+ },
+ {
+   "country": "Brazil",
+   "year": 2014,
+   "gini": 51.5,
+   "president": "Dilma Rousseff"
+ },
+ {
+   "country": "Brazil",
+   "year": 2013,
+   "gini": 52.8,
+   "president": "Dilma Rousseff"
+ },
+ {
+   "country": "Brazil",
+   "year": 2012,
+   "gini": 52.7,
+   "president": "Dilma Rousseff"
+ },
+ {
+   "country": "Brazil",
+   "year": 2011,
+   "gini": 52.9,
+   "president": "Dilma Rousseff"
+ },
+ {
+   "country": "Brazil",
+   "year": 2010,
+   "gini": 53.3,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2009,
+   "gini": 53.7,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2008,
+   "gini": 54,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2007,
+   "gini": 54.9,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2006,
+   "gini": 55.6,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2005,
+   "gini": 56.3,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2004,
+   "gini": 56.5,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2003,
+   "gini": 57.6,
+   "president": "Luiz Inácio Lula da Silva"
+ },
+ {
+   "country": "Brazil",
+   "year": 2002,
+   "gini": 58.1,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 2001,
+   "gini": 58.4,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 2000,
+   "gini": 58.7,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 1999,
+   "gini": 59,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 1998,
+   "gini": 59.6,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 1997,
+   "gini": 59.8,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 1996,
+   "gini": 59.9,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 1995,
+   "gini": 59.6,
+   "president": "Fernando Henrique Cardoso"
+ },
+ {
+   "country": "Brazil",
+   "year": 1994,
+   "gini": 59.9,
+   "president": "Itamar Franco"
+ },
+ {
+   "country": "Brazil",
+   "year": 1993,
+   "gini": 60.1,
+   "president": "Itamar Franco"
+ },
+ {
+   "country": "Brazil",
+   "year": 1992,
+   "gini": 53.2,
+   "president": "Fernando Collor"
+ },
+ {
+   "country": "Brazil",
+   "year": 1991,
+   "gini": 56.9,
+   "president": "Fernando Collor"
+ },
+ {
+   "country": "Brazil",
+   "year": 1990,
+   "gini": 60.5,
+   "president": "Fernando Collor"
+ },
+ {
+   "country": "Brazil",
+   "year": 1989,
+   "gini": 63.3,
+   "president": "José Sarney"
+ },
+ {
+   "country": "Brazil",
+   "year": 1988,
+   "gini": 61.4,
+   "president": "José Sarney"
+ },
+ {
+   "country": "Brazil",
+   "year": 1987,
+   "gini": 59.7,
+   "president": "José Sarney"
+ },
+ {
+   "country": "Brazil",
+   "year": 1986,
+   "gini": 58.5,
+   "president": "José Sarney"
+ },
+ {
+   "country": "Brazil",
+   "year": 1985,
+   "gini": 55.6,
+   "president": "José Sarney"
+ },
+ {
+   "country": "Brazil",
+   "year": 1984,
+   "gini": 58.4,
+   "president": "João Figueiredo"
+ },
+ {
+   "country": "Brazil",
+   "year": 1983,
+   "gini": 59,
+   "president": "João Figueiredo"
+ },
+ {
+   "country": "Brazil",
+   "year": 1982,
+   "gini": 58.4,
+   "president": "João Figueiredo"
+ },
+ {
+   "country": "Brazil",
+   "year": 1981,
+   "gini": 58,
+   "president": "João Figueiredo"
+ },
+ {
+   "country": "Brazil",
+   "year": 1980,
+   "gini": 58.9,
+   "president": "João Figueiredo"
+ }
+]

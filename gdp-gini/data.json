@@ -1,0 +1,275 @@
+[
+  {
+    "country": "Brazil",
+    "year": 1980,
+    "gini": 58.9,
+    "president": "João Figueiredo",
+    "gdp": 439710227846.397
+  },
+  {
+    "country": "Brazil",
+    "year": 1981,
+    "gini": 58,
+    "president": "João Figueiredo",
+    "gdp": 459792837933.301
+  },
+  {
+    "country": "Brazil",
+    "year": 1982,
+    "gini": 58.4,
+    "president": "João Figueiredo",
+    "gdp": 490637487495.266
+  },
+  {
+    "country": "Brazil",
+    "year": 1983,
+    "gini": 59,
+    "president": "João Figueiredo",
+    "gdp": 492653322456.165
+  },
+  {
+    "country": "Brazil",
+    "year": 1984,
+    "gini": 58.4,
+    "president": "João Figueiredo",
+    "gdp": 538089423802.89
+  },
+  {
+    "country": "Brazil",
+    "year": 1985,
+    "gini": 55.6,
+    "president": "José Sarney",
+    "gdp": 598584029445.447
+  },
+  {
+    "country": "Brazil",
+    "year": 1986,
+    "gini": 58.5,
+    "president": "José Sarney",
+    "gdp": 660854020742.003
+  },
+  {
+    "country": "Brazil",
+    "year": 1987,
+    "gini": 59.7,
+    "president": "José Sarney",
+    "gdp": 704701865212.714
+  },
+  {
+    "country": "Brazil",
+    "year": 1988,
+    "gini": 61.4,
+    "president": "José Sarney",
+    "gdp": 728493426269.634
+  },
+  {
+    "country": "Brazil",
+    "year": 1989,
+    "gini": 63.3,
+    "president": "José Sarney",
+    "gdp": 780706858522.413
+  },
+  {
+    "country": "Brazil",
+    "year": 1990,
+    "gini": 60.5,
+    "president": "Fernando Collor",
+    "gdp": 999955594632.632
+  },
+  {
+    "country": "Brazil",
+    "year": 1991,
+    "gini": 56.9,
+    "president": "Fernando Collor",
+    "gdp": 1049401628213.71
+  },
+  {
+    "country": "Brazil",
+    "year": 1992,
+    "gini": 53.2,
+    "president": "Fernando Collor",
+    "gdp": 1068305073162.27
+  },
+  {
+    "country": "Brazil",
+    "year": 1993,
+    "gini": 60.1,
+    "president": "Itamar Franco",
+    "gdp": 1144635259044.02
+  },
+  {
+    "country": "Brazil",
+    "year": 1994,
+    "gini": 59.9,
+    "president": "Itamar Franco",
+    "gdp": 1231442603726.43
+  },
+  {
+    "country": "Brazil",
+    "year": 1995,
+    "gini": 59.6,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1312793845189.59
+  },
+  {
+    "country": "Brazil",
+    "year": 1996,
+    "gini": 59.9,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1366342535887.29
+  },
+  {
+    "country": "Brazil",
+    "year": 1997,
+    "gini": 59.8,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1437088711906.86
+  },
+  {
+    "country": "Brazil",
+    "year": 1998,
+    "gini": 59.6,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1458176892196.64
+  },
+  {
+    "country": "Brazil",
+    "year": 1999,
+    "gini": 59,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1486151973358.7
+  },
+  {
+    "country": "Brazil",
+    "year": 2000,
+    "gini": 58.7,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1586043906219.53
+  },
+  {
+    "country": "Brazil",
+    "year": 2001,
+    "gini": 58.4,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1643360489121.71
+  },
+  {
+    "country": "Brazil",
+    "year": 2002,
+    "gini": 58.1,
+    "president": "Fernando Henrique Cardoso",
+    "gdp": 1720327662105.62
+  },
+  {
+    "country": "Brazil",
+    "year": 2003,
+    "gini": 57.6,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 1772266254872.08
+  },
+  {
+    "country": "Brazil",
+    "year": 2004,
+    "gini": 56.5,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 1924809592995.91
+  },
+  {
+    "country": "Brazil",
+    "year": 2005,
+    "gini": 56.3,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 2048321126593.51
+  },
+  {
+    "country": "Brazil",
+    "year": 2006,
+    "gini": 55.6,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 2193917661561.93
+  },
+  {
+    "country": "Brazil",
+    "year": 2007,
+    "gini": 54.9,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 2389597634116.58
+  },
+  {
+    "country": "Brazil",
+    "year": 2008,
+    "gini": 54,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 2560177054159.73
+  },
+  {
+    "country": "Brazil",
+    "year": 2009,
+    "gini": 53.7,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 2576448998283.4
+  },
+  {
+    "country": "Brazil",
+    "year": 2010,
+    "gini": 53.3,
+    "president": "Luiz Inácio Lula da Silva",
+    "gdp": 2802692113712.31
+  },
+  {
+    "country": "Brazil",
+    "year": 2011,
+    "gini": 52.9,
+    "president": "Dilma Rousseff",
+    "gdp": 2974955344832.28
+  },
+  {
+    "country": "Brazil",
+    "year": 2012,
+    "gini": 52.7,
+    "president": "Dilma Rousseff",
+    "gdp": 3090260753911.66
+  },
+  {
+    "country": "Brazil",
+    "year": 2013,
+    "gini": 52.8,
+    "president": "Dilma Rousseff",
+    "gdp": 3238978641823.97
+  },
+  {
+    "country": "Brazil",
+    "year": 2014,
+    "gini": 51.5,
+    "president": "Dilma Rousseff",
+    "gdp": 3316888429290.3
+  },
+  {
+    "country": "Brazil",
+    "year": 2015,
+    "gini": 51.3,
+    "president": "Dilma Rousseff",
+    "gdp": 3233490641159.31
+  },
+  {
+    "country": "Brazil",
+    "year": 2016,
+    "gini": 53.7,
+    "president": "Dilma Rousseff",
+    "gdp": 3160799350556.39
+  },
+  {
+    "country": "Brazil",
+    "year": 2017,
+    "gini": 53.3,
+    "president": "Michel Temer",
+    "gdp": 3255144799735.36
+  },
+  {
+    "country": "Brazil",
+    "year": 2018,
+    "gini": 53.3,
+    "president": "Michel Temer",
+    "gdp": 3365757423619.22
+  }
+]
