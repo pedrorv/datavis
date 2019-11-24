@@ -1,0 +1,1002 @@
+[
+  {
+    "Dado": "Urbana",
+    "Computador": 67,
+    "Tablet": 20,
+    "Celular": 90,
+    "Videogame": 9,
+    "Televisao": 14,
+    "Ano": 2015,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Rural",
+    "Computador": 44,
+    "Tablet": 8,
+    "Celular": 85,
+    "Videogame": 2,
+    "Televisao": 4,
+    "Ano": 2015,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Sudeste",
+    "Computador": 70,
+    "Tablet": 21,
+    "Celular": 89,
+    "Videogame": 10,
+    "Televisao": 14,
+    "Ano": 2015,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Nordeste",
+    "Computador": 57,
+    "Tablet": 19,
+    "Celular": 90,
+    "Videogame": 5,
+    "Televisao": 12,
+    "Ano": 2015,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Sul",
+    "Computador": 70,
+    "Tablet": 18,
+    "Celular": 85,
+    "Videogame": 7,
+    "Televisao": 12,
+    "Ano": 2015,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Norte",
+    "Computador": 45,
+    "Tablet": 16,
+    "Celular": 95,
+    "Videogame": 7,
+    "Televisao": 9,
+    "Ano": 2015,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Centro-Oeste",
+    "Computador": 60,
+    "Tablet": 15,
+    "Celular": 93,
+    "Videogame": 7,
+    "Televisao": 15,
+    "Ano": 2015,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Masculino",
+    "Computador": 68,
+    "Tablet": 21,
+    "Celular": 88,
+    "Videogame": 13,
+    "Televisao": 16,
+    "Ano": 2015,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Feminino",
+    "Computador": 61,
+    "Tablet": 18,
+    "Celular": 90,
+    "Videogame": 3,
+    "Televisao": 11,
+    "Ano": 2015,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Analfabeto / Educação infantil",
+    "Computador": 52,
+    "Tablet": 13,
+    "Celular": 66,
+    "Videogame": 3,
+    "Televisao": 6,
+    "Ano": 2015,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Fundamental",
+    "Computador": 50,
+    "Tablet": 13,
+    "Celular": 86,
+    "Videogame": 7,
+    "Televisao": 10,
+    "Ano": 2015,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Médio",
+    "Computador": 62,
+    "Tablet": 17,
+    "Celular": 91,
+    "Videogame": 7,
+    "Televisao": 11,
+    "Ano": 2015,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Superior",
+    "Computador": 90,
+    "Tablet": 32,
+    "Celular": 91,
+    "Videogame": 11,
+    "Televisao": 21,
+    "Ano": 2015,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "De 10 a 15 anos",
+    "Computador": 62,
+    "Tablet": 19,
+    "Celular": 86,
+    "Videogame": 13,
+    "Televisao": 17,
+    "Ano": 2015,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 16 a 24 anos",
+    "Computador": 57,
+    "Tablet": 16,
+    "Celular": 97,
+    "Videogame": 11,
+    "Televisao": 14,
+    "Ano": 2015,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 25 a 34 anos",
+    "Computador": 63,
+    "Tablet": 22,
+    "Celular": 94,
+    "Videogame": 6,
+    "Televisao": 13,
+    "Ano": 2015,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 35 a 44 anos",
+    "Computador": 68,
+    "Tablet": 25,
+    "Celular": 88,
+    "Videogame": 7,
+    "Televisao": 11,
+    "Ano": 2015,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 45 a 59 anos",
+    "Computador": 74,
+    "Tablet": 15,
+    "Celular": 79,
+    "Videogame": 2,
+    "Televisao": 10,
+    "Ano": 2015,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 60 anos ou mais",
+    "Computador": 80,
+    "Tablet": 15,
+    "Celular": 72,
+    "Videogame": 4,
+    "Televisao": 12,
+    "Ano": 2015,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "Até 1 SM",
+    "Computador": 41,
+    "Tablet": 10,
+    "Celular": 87,
+    "Videogame": 3,
+    "Televisao": 6,
+    "Ano": 2015,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 1 SM até 2 SM",
+    "Computador": 50,
+    "Tablet": 14,
+    "Celular": 89,
+    "Videogame": 5,
+    "Televisao": 8,
+    "Ano": 2015,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 2 SM até 3 SM",
+    "Computador": 61,
+    "Tablet": 15,
+    "Celular": 89,
+    "Videogame": 6,
+    "Televisao": 11,
+    "Ano": 2015,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 3 SM até 5 SM",
+    "Computador": 80,
+    "Tablet": 25,
+    "Celular": 91,
+    "Videogame": 11,
+    "Televisao": 17,
+    "Ano": 2015,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 5 SM até 10 SM",
+    "Computador": 85,
+    "Tablet": 25,
+    "Celular": 91,
+    "Videogame": 9,
+    "Televisao": 18,
+    "Ano": 2015,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 10 SM",
+    "Computador": 90,
+    "Tablet": 38,
+    "Celular": 92,
+    "Videogame": 14,
+    "Televisao": 34,
+    "Ano": 2015,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Urbana",
+    "Computador": 60,
+    "Tablet": 17,
+    "Celular": 94,
+    "Videogame": 9,
+    "Televisao": 19,
+    "Ano": 2016,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Rural",
+    "Computador": 31,
+    "Tablet": 6,
+    "Celular": 93,
+    "Videogame": 2,
+    "Televisao": 5,
+    "Ano": 2016,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Sudeste",
+    "Computador": 64,
+    "Tablet": 18,
+    "Celular": 93,
+    "Videogame": 11,
+    "Televisao": 20,
+    "Ano": 2016,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Nordeste",
+    "Computador": 46,
+    "Tablet": 15,
+    "Celular": 94,
+    "Videogame": 3,
+    "Televisao": 12,
+    "Ano": 2016,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Sul",
+    "Computador": 61,
+    "Tablet": 14,
+    "Celular": 93,
+    "Videogame": 8,
+    "Televisao": 18,
+    "Ano": 2016,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Norte",
+    "Computador": 39,
+    "Tablet": 11,
+    "Celular": 94,
+    "Videogame": 6,
+    "Televisao": 8,
+    "Ano": 2016,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Centro-Oeste",
+    "Computador": 60,
+    "Tablet": 17,
+    "Celular": 96,
+    "Videogame": 9,
+    "Televisao": 24,
+    "Ano": 2016,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Masculino",
+    "Computador": 59,
+    "Tablet": 17,
+    "Celular": 94,
+    "Videogame": 13,
+    "Televisao": 20,
+    "Ano": 2016,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Feminino",
+    "Computador": 56,
+    "Tablet": 16,
+    "Celular": 93,
+    "Videogame": 3,
+    "Televisao": 15,
+    "Ano": 2016,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Analfabeto / Educação infantil",
+    "Computador": 22,
+    "Tablet": 13,
+    "Celular": 93,
+    "Videogame": 13,
+    "Televisao": 12,
+    "Ano": 2016,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Fundamental",
+    "Computador": 40,
+    "Tablet": 12,
+    "Celular": 92,
+    "Videogame": 7,
+    "Televisao": 12,
+    "Ano": 2016,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Médio",
+    "Computador": 55,
+    "Tablet": 14,
+    "Celular": 94,
+    "Videogame": 8,
+    "Televisao": 14,
+    "Ano": 2016,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Superior",
+    "Computador": 87,
+    "Tablet": 26,
+    "Celular": 94,
+    "Videogame": 11,
+    "Televisao": 31,
+    "Ano": 2016,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "De 10 a 15 anos",
+    "Computador": 50,
+    "Tablet": 16,
+    "Celular": 90,
+    "Videogame": 13,
+    "Televisao": 19,
+    "Ano": 2016,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 16 a 24 anos",
+    "Computador": 58,
+    "Tablet": 11,
+    "Celular": 96,
+    "Videogame": 11,
+    "Televisao": 20,
+    "Ano": 2016,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 25 a 34 anos",
+    "Computador": 57,
+    "Tablet": 22,
+    "Celular": 97,
+    "Videogame": 8,
+    "Televisao": 19,
+    "Ano": 2016,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 35 a 44 anos",
+    "Computador": 58,
+    "Tablet": 19,
+    "Celular": 95,
+    "Videogame": 7,
+    "Televisao": 16,
+    "Ano": 2016,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 45 a 59 anos",
+    "Computador": 59,
+    "Tablet": 12,
+    "Celular": 90,
+    "Videogame": 3,
+    "Televisao": 14,
+    "Ano": 2016,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 60 anos ou mais",
+    "Computador": 69,
+    "Tablet": 15,
+    "Celular": 79,
+    "Videogame": 2,
+    "Televisao": 11,
+    "Ano": 2016,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "Até 1 SM",
+    "Computador": 34,
+    "Tablet": 11,
+    "Celular": 93,
+    "Videogame": 4,
+    "Televisao": 8,
+    "Ano": 2016,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 1 SM até 2 SM",
+    "Computador": 49,
+    "Tablet": 12,
+    "Celular": 92,
+    "Videogame": 6,
+    "Televisao": 14,
+    "Ano": 2016,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 2 SM até 3 SM",
+    "Computador": 58,
+    "Tablet": 14,
+    "Celular": 95,
+    "Videogame": 9,
+    "Televisao": 15,
+    "Ano": 2016,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 3 SM até 5 SM",
+    "Computador": 69,
+    "Tablet": 17,
+    "Celular": 96,
+    "Videogame": 12,
+    "Televisao": 22,
+    "Ano": 2016,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 5 SM até 10 SM",
+    "Computador": 79,
+    "Tablet": 24,
+    "Celular": 92,
+    "Videogame": 9,
+    "Televisao": 24,
+    "Ano": 2016,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 10 SM",
+    "Computador": 94,
+    "Tablet": 34,
+    "Celular": 96,
+    "Videogame": 16,
+    "Televisao": 55,
+    "Ano": 2016,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Urbana",
+    "Computador": 54,
+    "Tablet": 16,
+    "Celular": 96,
+    "Videogame": 10,
+    "Televisao": 23,
+    "Ano": 2017,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Rural",
+    "Computador": 28,
+    "Tablet": 7,
+    "Celular": 96,
+    "Videogame": 3,
+    "Televisao": 14,
+    "Ano": 2017,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Sudeste",
+    "Computador": 58,
+    "Tablet": 17,
+    "Celular": 95,
+    "Videogame": 13,
+    "Televisao": 25,
+    "Ano": 2017,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Nordeste",
+    "Computador": 42,
+    "Tablet": 12,
+    "Celular": 96,
+    "Videogame": 6,
+    "Televisao": 19,
+    "Ano": 2017,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Sul",
+    "Computador": 51,
+    "Tablet": 13,
+    "Celular": 95,
+    "Videogame": 8,
+    "Televisao": 24,
+    "Ano": 2017,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Norte",
+    "Computador": 37,
+    "Tablet": 9,
+    "Celular": 97,
+    "Videogame": 4,
+    "Televisao": 11,
+    "Ano": 2017,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Centro-Oeste",
+    "Computador": 54,
+    "Tablet": 17,
+    "Celular": 97,
+    "Videogame": 8,
+    "Televisao": 22,
+    "Ano": 2017,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Masculino",
+    "Computador": 55,
+    "Tablet": 17,
+    "Celular": 95,
+    "Videogame": 15,
+    "Televisao": 24,
+    "Ano": 2017,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Feminino",
+    "Computador": 47,
+    "Tablet": 13,
+    "Celular": 97,
+    "Videogame": 4,
+    "Televisao": 21,
+    "Ano": 2017,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Analfabeto / Educação infantil",
+    "Computador": 24,
+    "Tablet": 12,
+    "Celular": 96,
+    "Videogame": 6,
+    "Televisao": 15,
+    "Ano": 2017,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Fundamental",
+    "Computador": 36,
+    "Tablet": 12,
+    "Celular": 94,
+    "Videogame": 10,
+    "Televisao": 16,
+    "Ano": 2017,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Médio",
+    "Computador": 47,
+    "Tablet": 12,
+    "Celular": 97,
+    "Videogame": 9,
+    "Televisao": 21,
+    "Ano": 2017,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Superior",
+    "Computador": 82,
+    "Tablet": 24,
+    "Celular": 97,
+    "Videogame": 11,
+    "Televisao": 34,
+    "Ano": 2017,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "De 10 a 15 anos",
+    "Computador": 51,
+    "Tablet": 16,
+    "Celular": 93,
+    "Videogame": 19,
+    "Televisao": 27,
+    "Ano": 2017,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 16 a 24 anos",
+    "Computador": 49,
+    "Tablet": 14,
+    "Celular": 98,
+    "Videogame": 13,
+    "Televisao": 24,
+    "Ano": 2017,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 25 a 34 anos",
+    "Computador": 52,
+    "Tablet": 18,
+    "Celular": 99,
+    "Videogame": 10,
+    "Televisao": 24,
+    "Ano": 2017,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 35 a 44 anos",
+    "Computador": 52,
+    "Tablet": 15,
+    "Celular": 96,
+    "Videogame": 5,
+    "Televisao": 20,
+    "Ano": 2017,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 45 a 59 anos",
+    "Computador": 50,
+    "Tablet": 11,
+    "Celular": 93,
+    "Videogame": 4,
+    "Televisao": 20,
+    "Ano": 2017,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 60 anos ou mais",
+    "Computador": 55,
+    "Tablet": 15,
+    "Celular": 87,
+    "Videogame": 5,
+    "Televisao": 17,
+    "Ano": 2017,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "Até 1 SM",
+    "Computador": 30,
+    "Tablet": 8,
+    "Celular": 94,
+    "Videogame": 4,
+    "Televisao": 9,
+    "Ano": 2017,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 1 SM até 2 SM",
+    "Computador": 43,
+    "Tablet": 12,
+    "Celular": 97,
+    "Videogame": 8,
+    "Televisao": 18,
+    "Ano": 2017,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 2 SM até 3 SM",
+    "Computador": 55,
+    "Tablet": 16,
+    "Celular": 97,
+    "Videogame": 13,
+    "Televisao": 22,
+    "Ano": 2017,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 3 SM até 5 SM",
+    "Computador": 66,
+    "Tablet": 17,
+    "Celular": 95,
+    "Videogame": 13,
+    "Televisao": 31,
+    "Ano": 2017,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 5 SM até 10 SM",
+    "Computador": 74,
+    "Tablet": 23,
+    "Celular": 96,
+    "Videogame": 15,
+    "Televisao": 38,
+    "Ano": 2017,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 10 SM",
+    "Computador": 84,
+    "Tablet": 33,
+    "Celular": 96,
+    "Videogame": 14,
+    "Televisao": 43,
+    "Ano": 2017,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Urbana",
+    "Computador": 46,
+    "Tablet": 12,
+    "Celular": 97,
+    "Videogame": 10,
+    "Televisao": 32,
+    "Ano": 2018,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Rural",
+    "Computador": 23,
+    "Tablet": 6,
+    "Celular": 97,
+    "Videogame": 3,
+    "Televisao": 12,
+    "Ano": 2018,
+    "Tipo": "Área"
+  },
+  {
+    "Dado": "Sudeste",
+    "Computador": 46,
+    "Tablet": 11,
+    "Celular": 96,
+    "Videogame": 11,
+    "Televisao": 30,
+    "Ano": 2018,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Nordeste",
+    "Computador": 37,
+    "Tablet": 11,
+    "Celular": 97,
+    "Videogame": 6,
+    "Televisao": 28,
+    "Ano": 2018,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Sul",
+    "Computador": 51,
+    "Tablet": 13,
+    "Celular": 96,
+    "Videogame": 11,
+    "Televisao": 37,
+    "Ano": 2018,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Norte",
+    "Computador": 31,
+    "Tablet": 9,
+    "Celular": 98,
+    "Videogame": 5,
+    "Televisao": 18,
+    "Ano": 2018,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Centro-Oeste",
+    "Computador": 46,
+    "Tablet": 15,
+    "Celular": 99,
+    "Videogame": 8,
+    "Televisao": 29,
+    "Ano": 2018,
+    "Tipo": "Região"
+  },
+  {
+    "Dado": "Masculino",
+    "Computador": 48,
+    "Tablet": 13,
+    "Celular": 96,
+    "Videogame": 13,
+    "Televisao": 32,
+    "Ano": 2018,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Feminino",
+    "Computador": 39,
+    "Tablet": 10,
+    "Celular": 97,
+    "Videogame": 5,
+    "Televisao": 28,
+    "Ano": 2018,
+    "Tipo": "Sexo"
+  },
+  {
+    "Dado": "Analfabeto / Educação infantil",
+    "Computador": 7,
+    "Tablet": 2,
+    "Celular": 98,
+    "Videogame": 1,
+    "Televisao": 11,
+    "Ano": 2018,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Fundamental",
+    "Computador": 23,
+    "Tablet": 7,
+    "Celular": 96,
+    "Videogame": 8,
+    "Televisao": 23,
+    "Ano": 2018,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Médio",
+    "Computador": 42,
+    "Tablet": 11,
+    "Celular": 97,
+    "Videogame": 10,
+    "Televisao": 30,
+    "Ano": 2018,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "Superior",
+    "Computador": 78,
+    "Tablet": 19,
+    "Celular": 97,
+    "Videogame": 10,
+    "Televisao": 41,
+    "Ano": 2018,
+    "Tipo": "Grau de Instrução"
+  },
+  {
+    "Dado": "De 10 a 15 anos",
+    "Computador": 36,
+    "Tablet": 10,
+    "Celular": 94,
+    "Videogame": 15,
+    "Televisao": 37,
+    "Ano": 2018,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 16 a 24 anos",
+    "Computador": 46,
+    "Tablet": 10,
+    "Celular": 99,
+    "Videogame": 13,
+    "Televisao": 32,
+    "Ano": 2018,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 25 a 34 anos",
+    "Computador": 48,
+    "Tablet": 14,
+    "Celular": 98,
+    "Videogame": 10,
+    "Televisao": 34,
+    "Ano": 2018,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 35 a 44 anos",
+    "Computador": 46,
+    "Tablet": 13,
+    "Celular": 97,
+    "Videogame": 8,
+    "Televisao": 29,
+    "Ano": 2018,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 45 a 59 anos",
+    "Computador": 38,
+    "Tablet": 9,
+    "Celular": 95,
+    "Videogame": 5,
+    "Televisao": 23,
+    "Ano": 2018,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "De 60 anos ou mais",
+    "Computador": 41,
+    "Tablet": 10,
+    "Celular": 91,
+    "Videogame": 1,
+    "Televisao": 18,
+    "Ano": 2018,
+    "Tipo": "Idade"
+  },
+  {
+    "Dado": "Até 1 SM",
+    "Computador": 22,
+    "Tablet": 7,
+    "Celular": 97,
+    "Videogame": 5,
+    "Televisao": 14,
+    "Ano": 2018,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 1 SM até 2 SM",
+    "Computador": 36,
+    "Tablet": 8,
+    "Celular": 95,
+    "Videogame": 7,
+    "Televisao": 24,
+    "Ano": 2018,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 2 SM até 3 SM",
+    "Computador": 45,
+    "Tablet": 12,
+    "Celular": 97,
+    "Videogame": 8,
+    "Televisao": 33,
+    "Ano": 2018,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 3 SM até 5 SM",
+    "Computador": 63,
+    "Tablet": 17,
+    "Celular": 97,
+    "Videogame": 15,
+    "Televisao": 44,
+    "Ano": 2018,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 5 SM até 10 SM",
+    "Computador": 66,
+    "Tablet": 19,
+    "Celular": 98,
+    "Videogame": 16,
+    "Televisao": 44,
+    "Ano": 2018,
+    "Tipo": "Renda Familiar"
+  },
+  {
+    "Dado": "Mais de 10 SM",
+    "Computador": 83,
+    "Tablet": 27,
+    "Celular": 97,
+    "Videogame": 16,
+    "Televisao": 56,
+    "Ano": 2018,
+    "Tipo": "Renda Familiar"
+  }
+]

@@ -1,0 +1,764 @@
+{
+  "Área": {
+    "Urbana": {
+      "2015": {
+        "Computador": 67,
+        "Tablet": 20,
+        "Celular": 90,
+        "Videogame": 9,
+        "Televisão": 14
+      },
+      "2016": {
+        "Computador": 60,
+        "Tablet": 17,
+        "Celular": 94,
+        "Videogame": 9,
+        "Televisão": 19
+      },
+      "2017": {
+        "Computador": 54,
+        "Tablet": 16,
+        "Celular": 96,
+        "Videogame": 10,
+        "Televisão": 23
+      },
+      "2018": {
+        "Computador": 46,
+        "Tablet": 12,
+        "Celular": 97,
+        "Videogame": 10,
+        "Televisão": 32
+      }
+    },
+    "Rural": {
+      "2015": {
+        "Computador": 44,
+        "Tablet": 8,
+        "Celular": 85,
+        "Videogame": 2,
+        "Televisão": 4
+      },
+      "2016": {
+        "Computador": 31,
+        "Tablet": 6,
+        "Celular": 93,
+        "Videogame": 2,
+        "Televisão": 5
+      },
+      "2017": {
+        "Computador": 28,
+        "Tablet": 7,
+        "Celular": 96,
+        "Videogame": 3,
+        "Televisão": 14
+      },
+      "2018": {
+        "Computador": 23,
+        "Tablet": 6,
+        "Celular": 97,
+        "Videogame": 3,
+        "Televisão": 12
+      }
+    }
+  },
+  "Região": {
+    "Sudeste": {
+      "2015": {
+        "Computador": 70,
+        "Tablet": 21,
+        "Celular": 89,
+        "Videogame": 10,
+        "Televisão": 14
+      },
+      "2016": {
+        "Computador": 64,
+        "Tablet": 18,
+        "Celular": 93,
+        "Videogame": 11,
+        "Televisão": 20
+      },
+      "2017": {
+        "Computador": 58,
+        "Tablet": 17,
+        "Celular": 95,
+        "Videogame": 13,
+        "Televisão": 25
+      },
+      "2018": {
+        "Computador": 46,
+        "Tablet": 11,
+        "Celular": 96,
+        "Videogame": 11,
+        "Televisão": 30
+      }
+    },
+    "Nordeste": {
+      "2015": {
+        "Computador": 57,
+        "Tablet": 19,
+        "Celular": 90,
+        "Videogame": 5,
+        "Televisão": 12
+      },
+      "2016": {
+        "Computador": 46,
+        "Tablet": 15,
+        "Celular": 94,
+        "Videogame": 3,
+        "Televisão": 12
+      },
+      "2017": {
+        "Computador": 42,
+        "Tablet": 12,
+        "Celular": 96,
+        "Videogame": 6,
+        "Televisão": 19
+      },
+      "2018": {
+        "Computador": 37,
+        "Tablet": 11,
+        "Celular": 97,
+        "Videogame": 6,
+        "Televisão": 28
+      }
+    },
+    "Sul": {
+      "2015": {
+        "Computador": 70,
+        "Tablet": 18,
+        "Celular": 85,
+        "Videogame": 7,
+        "Televisão": 12
+      },
+      "2016": {
+        "Computador": 61,
+        "Tablet": 14,
+        "Celular": 93,
+        "Videogame": 8,
+        "Televisão": 18
+      },
+      "2017": {
+        "Computador": 51,
+        "Tablet": 13,
+        "Celular": 95,
+        "Videogame": 8,
+        "Televisão": 24
+      },
+      "2018": {
+        "Computador": 51,
+        "Tablet": 13,
+        "Celular": 96,
+        "Videogame": 11,
+        "Televisão": 37
+      }
+    },
+    "Norte": {
+      "2015": {
+        "Computador": 45,
+        "Tablet": 16,
+        "Celular": 95,
+        "Videogame": 7,
+        "Televisão": 9
+      },
+      "2016": {
+        "Computador": 39,
+        "Tablet": 11,
+        "Celular": 94,
+        "Videogame": 6,
+        "Televisão": 8
+      },
+      "2017": {
+        "Computador": 37,
+        "Tablet": 9,
+        "Celular": 97,
+        "Videogame": 4,
+        "Televisão": 11
+      },
+      "2018": {
+        "Computador": 31,
+        "Tablet": 9,
+        "Celular": 98,
+        "Videogame": 5,
+        "Televisão": 18
+      }
+    },
+    "Centro-Oeste": {
+      "2015": {
+        "Computador": 60,
+        "Tablet": 15,
+        "Celular": 93,
+        "Videogame": 7,
+        "Televisão": 15
+      },
+      "2016": {
+        "Computador": 60,
+        "Tablet": 17,
+        "Celular": 96,
+        "Videogame": 9,
+        "Televisão": 24
+      },
+      "2017": {
+        "Computador": 54,
+        "Tablet": 17,
+        "Celular": 97,
+        "Videogame": 8,
+        "Televisão": 22
+      },
+      "2018": {
+        "Computador": 46,
+        "Tablet": 15,
+        "Celular": 99,
+        "Videogame": 8,
+        "Televisão": 29
+      }
+    }
+  },
+  "Sexo": {
+    "Masculino": {
+      "2015": {
+        "Computador": 68,
+        "Tablet": 21,
+        "Celular": 88,
+        "Videogame": 13,
+        "Televisão": 16
+      },
+      "2016": {
+        "Computador": 59,
+        "Tablet": 17,
+        "Celular": 94,
+        "Videogame": 13,
+        "Televisão": 20
+      },
+      "2017": {
+        "Computador": 55,
+        "Tablet": 17,
+        "Celular": 95,
+        "Videogame": 15,
+        "Televisão": 24
+      },
+      "2018": {
+        "Computador": 48,
+        "Tablet": 13,
+        "Celular": 96,
+        "Videogame": 13,
+        "Televisão": 32
+      }
+    },
+    "Feminino": {
+      "2015": {
+        "Computador": 61,
+        "Tablet": 18,
+        "Celular": 90,
+        "Videogame": 3,
+        "Televisão": 11
+      },
+      "2016": {
+        "Computador": 56,
+        "Tablet": 16,
+        "Celular": 93,
+        "Videogame": 3,
+        "Televisão": 15
+      },
+      "2017": {
+        "Computador": 47,
+        "Tablet": 13,
+        "Celular": 97,
+        "Videogame": 4,
+        "Televisão": 21
+      },
+      "2018": {
+        "Computador": 39,
+        "Tablet": 10,
+        "Celular": 97,
+        "Videogame": 5,
+        "Televisão": 28
+      }
+    }
+  },
+  "Grau de Instrução": {
+    "Analfabeto / Educação infantil": {
+      "2015": {
+        "Computador": 52,
+        "Tablet": 13,
+        "Celular": 66,
+        "Videogame": 3,
+        "Televisão": 6
+      },
+      "2016": {
+        "Computador": 22,
+        "Tablet": 13,
+        "Celular": 93,
+        "Videogame": 13,
+        "Televisão": 12
+      },
+      "2017": {
+        "Computador": 24,
+        "Tablet": 12,
+        "Celular": 96,
+        "Videogame": 6,
+        "Televisão": 15
+      },
+      "2018": {
+        "Computador": 7,
+        "Tablet": 2,
+        "Celular": 98,
+        "Videogame": 1,
+        "Televisão": 11
+      }
+    },
+    "Fundamental": {
+      "2015": {
+        "Computador": 50,
+        "Tablet": 13,
+        "Celular": 86,
+        "Videogame": 7,
+        "Televisão": 10
+      },
+      "2016": {
+        "Computador": 40,
+        "Tablet": 12,
+        "Celular": 92,
+        "Videogame": 7,
+        "Televisão": 12
+      },
+      "2017": {
+        "Computador": 36,
+        "Tablet": 12,
+        "Celular": 94,
+        "Videogame": 10,
+        "Televisão": 16
+      },
+      "2018": {
+        "Computador": 23,
+        "Tablet": 7,
+        "Celular": 96,
+        "Videogame": 8,
+        "Televisão": 23
+      }
+    },
+    "Médio": {
+      "2015": {
+        "Computador": 62,
+        "Tablet": 17,
+        "Celular": 91,
+        "Videogame": 7,
+        "Televisão": 11
+      },
+      "2016": {
+        "Computador": 55,
+        "Tablet": 14,
+        "Celular": 94,
+        "Videogame": 8,
+        "Televisão": 14
+      },
+      "2017": {
+        "Computador": 47,
+        "Tablet": 12,
+        "Celular": 97,
+        "Videogame": 9,
+        "Televisão": 21
+      },
+      "2018": {
+        "Computador": 42,
+        "Tablet": 11,
+        "Celular": 97,
+        "Videogame": 10,
+        "Televisão": 30
+      }
+    },
+    "Superior": {
+      "2015": {
+        "Computador": 90,
+        "Tablet": 32,
+        "Celular": 91,
+        "Videogame": 11,
+        "Televisão": 21
+      },
+      "2016": {
+        "Computador": 87,
+        "Tablet": 26,
+        "Celular": 94,
+        "Videogame": 11,
+        "Televisão": 31
+      },
+      "2017": {
+        "Computador": 82,
+        "Tablet": 24,
+        "Celular": 97,
+        "Videogame": 11,
+        "Televisão": 34
+      },
+      "2018": {
+        "Computador": 78,
+        "Tablet": 19,
+        "Celular": 97,
+        "Videogame": 10,
+        "Televisão": 41
+      }
+    }
+  },
+  "Idade": {
+    "10 a 15 anos": {
+      "2015": {
+        "Computador": 62,
+        "Tablet": 19,
+        "Celular": 86,
+        "Videogame": 13,
+        "Televisão": 17
+      },
+      "2016": {
+        "Computador": 50,
+        "Tablet": 16,
+        "Celular": 90,
+        "Videogame": 13,
+        "Televisão": 19
+      },
+      "2017": {
+        "Computador": 51,
+        "Tablet": 16,
+        "Celular": 93,
+        "Videogame": 19,
+        "Televisão": 27
+      },
+      "2018": {
+        "Computador": 36,
+        "Tablet": 10,
+        "Celular": 94,
+        "Videogame": 15,
+        "Televisão": 37
+      }
+    },
+    "16 a 24 anos": {
+      "2015": {
+        "Computador": 57,
+        "Tablet": 16,
+        "Celular": 97,
+        "Videogame": 11,
+        "Televisão": 14
+      },
+      "2016": {
+        "Computador": 58,
+        "Tablet": 11,
+        "Celular": 96,
+        "Videogame": 11,
+        "Televisão": 20
+      },
+      "2017": {
+        "Computador": 49,
+        "Tablet": 14,
+        "Celular": 98,
+        "Videogame": 13,
+        "Televisão": 24
+      },
+      "2018": {
+        "Computador": 46,
+        "Tablet": 10,
+        "Celular": 99,
+        "Videogame": 13,
+        "Televisão": 32
+      }
+    },
+    "25 a 34 anos": {
+      "2015": {
+        "Computador": 63,
+        "Tablet": 22,
+        "Celular": 94,
+        "Videogame": 6,
+        "Televisão": 13
+      },
+      "2016": {
+        "Computador": 57,
+        "Tablet": 22,
+        "Celular": 97,
+        "Videogame": 8,
+        "Televisão": 19
+      },
+      "2017": {
+        "Computador": 52,
+        "Tablet": 18,
+        "Celular": 99,
+        "Videogame": 10,
+        "Televisão": 24
+      },
+      "2018": {
+        "Computador": 48,
+        "Tablet": 14,
+        "Celular": 98,
+        "Videogame": 10,
+        "Televisão": 34
+      }
+    },
+    "35 a 44 anos": {
+      "2015": {
+        "Computador": 68,
+        "Tablet": 25,
+        "Celular": 88,
+        "Videogame": 7,
+        "Televisão": 11
+      },
+      "2016": {
+        "Computador": 58,
+        "Tablet": 19,
+        "Celular": 95,
+        "Videogame": 7,
+        "Televisão": 16
+      },
+      "2017": {
+        "Computador": 52,
+        "Tablet": 15,
+        "Celular": 96,
+        "Videogame": 5,
+        "Televisão": 20
+      },
+      "2018": {
+        "Computador": 46,
+        "Tablet": 13,
+        "Celular": 97,
+        "Videogame": 8,
+        "Televisão": 29
+      }
+    },
+    "45 a 59 anos": {
+      "2015": {
+        "Computador": 74,
+        "Tablet": 15,
+        "Celular": 79,
+        "Videogame": 2,
+        "Televisão": 10
+      },
+      "2016": {
+        "Computador": 59,
+        "Tablet": 12,
+        "Celular": 90,
+        "Videogame": 3,
+        "Televisão": 14
+      },
+      "2017": {
+        "Computador": 50,
+        "Tablet": 11,
+        "Celular": 93,
+        "Videogame": 4,
+        "Televisão": 20
+      },
+      "2018": {
+        "Computador": 38,
+        "Tablet": 9,
+        "Celular": 95,
+        "Videogame": 5,
+        "Televisão": 23
+      }
+    },
+    "60 anos ou mais": {
+      "2015": {
+        "Computador": 80,
+        "Tablet": 15,
+        "Celular": 72,
+        "Videogame": 4,
+        "Televisão": 12
+      },
+      "2016": {
+        "Computador": 69,
+        "Tablet": 15,
+        "Celular": 79,
+        "Videogame": 2,
+        "Televisão": 11
+      },
+      "2017": {
+        "Computador": 55,
+        "Tablet": 15,
+        "Celular": 87,
+        "Videogame": 5,
+        "Televisão": 17
+      },
+      "2018": {
+        "Computador": 41,
+        "Tablet": 10,
+        "Celular": 91,
+        "Videogame": 1,
+        "Televisão": 18
+      }
+    }
+  },
+  "Renda Familiar": {
+    "Até 1 SM": {
+      "2015": {
+        "Computador": 41,
+        "Tablet": 10,
+        "Celular": 87,
+        "Videogame": 3,
+        "Televisão": 6
+      },
+      "2016": {
+        "Computador": 34,
+        "Tablet": 11,
+        "Celular": 93,
+        "Videogame": 4,
+        "Televisão": 8
+      },
+      "2017": {
+        "Computador": 30,
+        "Tablet": 8,
+        "Celular": 94,
+        "Videogame": 4,
+        "Televisão": 9
+      },
+      "2018": {
+        "Computador": 22,
+        "Tablet": 7,
+        "Celular": 97,
+        "Videogame": 5,
+        "Televisão": 14
+      }
+    },
+    "1 SM até 2 SM": {
+      "2015": {
+        "Computador": 50,
+        "Tablet": 14,
+        "Celular": 89,
+        "Videogame": 5,
+        "Televisão": 8
+      },
+      "2016": {
+        "Computador": 49,
+        "Tablet": 12,
+        "Celular": 92,
+        "Videogame": 6,
+        "Televisão": 14
+      },
+      "2017": {
+        "Computador": 43,
+        "Tablet": 12,
+        "Celular": 97,
+        "Videogame": 8,
+        "Televisão": 18
+      },
+      "2018": {
+        "Computador": 36,
+        "Tablet": 8,
+        "Celular": 95,
+        "Videogame": 7,
+        "Televisão": 24
+      }
+    },
+    "2 SM até 3 SM": {
+      "2015": {
+        "Computador": 61,
+        "Tablet": 15,
+        "Celular": 89,
+        "Videogame": 6,
+        "Televisão": 11
+      },
+      "2016": {
+        "Computador": 58,
+        "Tablet": 14,
+        "Celular": 95,
+        "Videogame": 9,
+        "Televisão": 15
+      },
+      "2017": {
+        "Computador": 55,
+        "Tablet": 16,
+        "Celular": 97,
+        "Videogame": 13,
+        "Televisão": 22
+      },
+      "2018": {
+        "Computador": 45,
+        "Tablet": 12,
+        "Celular": 97,
+        "Videogame": 8,
+        "Televisão": 33
+      }
+    },
+    "3 SM até 5 SM": {
+      "2015": {
+        "Computador": 80,
+        "Tablet": 25,
+        "Celular": 91,
+        "Videogame": 11,
+        "Televisão": 17
+      },
+      "2016": {
+        "Computador": 69,
+        "Tablet": 17,
+        "Celular": 96,
+        "Videogame": 12,
+        "Televisão": 22
+      },
+      "2017": {
+        "Computador": 66,
+        "Tablet": 17,
+        "Celular": 95,
+        "Videogame": 13,
+        "Televisão": 31
+      },
+      "2018": {
+        "Computador": 63,
+        "Tablet": 17,
+        "Celular": 97,
+        "Videogame": 15,
+        "Televisão": 44
+      }
+    },
+    "5 SM até 10 SM": {
+      "2015": {
+        "Computador": 85,
+        "Tablet": 25,
+        "Celular": 91,
+        "Videogame": 9,
+        "Televisão": 18
+      },
+      "2016": {
+        "Computador": 79,
+        "Tablet": 24,
+        "Celular": 92,
+        "Videogame": 9,
+        "Televisão": 24
+      },
+      "2017": {
+        "Computador": 74,
+        "Tablet": 23,
+        "Celular": 96,
+        "Videogame": 15,
+        "Televisão": 38
+      },
+      "2018": {
+        "Computador": 66,
+        "Tablet": 19,
+        "Celular": 98,
+        "Videogame": 16,
+        "Televisão": 44
+      }
+    },
+    "Mais de 10 SM": {
+      "2015": {
+        "Computador": 90,
+        "Tablet": 38,
+        "Celular": 92,
+        "Videogame": 14,
+        "Televisão": 34
+      },
+      "2016": {
+        "Computador": 94,
+        "Tablet": 34,
+        "Celular": 96,
+        "Videogame": 16,
+        "Televisão": 55
+      },
+      "2017": {
+        "Computador": 84,
+        "Tablet": 33,
+        "Celular": 96,
+        "Videogame": 14,
+        "Televisão": 43
+      },
+      "2018": {
+        "Computador": 83,
+        "Tablet": 27,
+        "Celular": 97,
+        "Videogame": 16,
+        "Televisão": 56
+      }
+    }
+  }
+}
